@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         //psh Username Moderation Systems [UMS]
+// @name         Username Moderation Systems [UMS]
 // @namespace    https://github.com/philipseymourhoffman
 // @version      0.9
 // @description  Automatically bans users with specific usernames in your kick chat
